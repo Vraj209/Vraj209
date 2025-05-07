@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&theme=tokyonight" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [FitVista](https://github.com/Vraj209/FitVista-front-end)
+- 🔭 I’m currently working at Viargos
 
-- 🌱 I’m currently learning **Next.js, DevOps**
+- 🌱 I’m currently learning **Cloud, DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vraj209](https://github.com/Vraj209)
-
-- 💬 Ask me about **react, javascript**
 
 - 📫 How to reach me **vrajpanchal0209@gmail.com**
 
